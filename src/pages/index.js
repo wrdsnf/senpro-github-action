@@ -32,7 +32,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            Warda Saniia Fawahaan | 518824
+            Warda Saniia Fawahaana | 518824
           </h5>
         </div>
       </main>
